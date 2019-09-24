@@ -1,0 +1,15 @@
+apply plugin: 'java'
+apply plugin: 'application'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile 'com.google.guava:guava:23.0'
+    testCompile 'junit:junit:4.12'
+	implementation 'edu.stanford.nlp:stanford-corenlp:3.9.2'
+	implementation 'edu.stanford.nlp:stanford-corenlp:3.9.2:models'
+}
+
+mainClassName = 'MessageTagger'

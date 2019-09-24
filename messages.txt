@@ -1,0 +1,201 @@
+Add screenshots for readme
+adding back music into main menu
+updated music to non-copyright
+changed aspect ratio from free aspect to 16:9
+correcting some of the game's settings
+updating readme file
+cleaning up folder structure
+Fix tests
+optimise metalGame
+Cosmetic improvements
+fix test
+Running through pyformat to meet Google code standards
+return API method "convert_tokens_to_ids(vocab, tokens)" and add "con… 
+Fixing comment
+Fixing bug introducing in classification
+Add method for converting ids to tokens.
+Update README to clarify feature extraction
+Updating chainer FAQ
+Fixing CoLA predict mode
+Fixing python2 logging for extract_features.py
+Add 16.6.3 Changelog (#14223)
+Update error codes
+Save CI-built node_modules as build artifacts (#14205)
+Add regression test for #14188 (#14197)
+Update Readme (#14176) 
+Simplify CSS shorthand property warning (#14183)
+fix typo
+Use unique thread ID for each partial render to access Context (#14182)
+SimpleMemoComponent should warn if a ref is given (#14178) 
+Warn about conflicting style values during updates (#14181)
+Added axes label to the plot
+Update absMin.py
+Update FindMin.py (#601) 
+fix division by float issue in range heap.py
+Minor changes to README.md (#599) 
+Re-design psnr.py code and change image names (#592) 
+Update max_sub_array.py (#597)
+Update 3n+1.py 
+Added b16, b32, a85, abs, absMax, absMin
+Update singly_linked_list.py
+One more fix/hack then I think this Colab pillow nightmare is over!
+Pillow pillow pillow.
+Another attempt at pillow fix on colab notebook
+Typo
+Another attempt to fix colab pil issue (wat wat wat)
+Using Colab friendly array to image conversion
+Attempting pil fix for colab notebook again
+Attempting to fix pillow issue
+Merging in updated colab notebook that can now read test images and w… 
+colab notebook updated to work with local Drive images 
+added edge cases fo everyNth test
+Fix module generation
+Coverage cleanup
+Fixed coverage for Codacy
+Fix coverage
+Fix tdd
+Update tdd
+1.2.2
+Minor fixes
+Fix package
+warn user when no parameters are supplied (#119)
+Proxy Support (Resolves #55)
+added a question about blind xss
+Blind XSS Support
+updated changelog
+changed version number in banner
+added "payload encoding" to features
+Ability to encode payloads, Fixed a bug in bruteforcer
+Verbose switch, Fixes #71, Fixes #93
+potential fix for #93
+2.0.7
+render pointer with validation message
+allow returning false in validation
+ci: test on Linux, macOS and Windows
+ci: test Node.js 8, 10 and 11
+Update .verb.md
+support appveyor
+fix example 
+adds multiscale gif
+fix table
+Allow text fields next to range inputs be empty (yeah that's horrendo… 
+Avoid "update found" on initial load.
+Fix typos [emoji]
+Adding readme, privacy section, reducing resolution of analytics data.
+Resetting pinch zoom (#261) 
+Not entirely sure why this causes dev to fail, but this fixes it.
+Preload test (#262)
+I'm calling this 1.0
+Adding manifest to headers
+Removing old file from serviceworker
+Polish translation added
+Polish translation ready
+Added link to Polish translation
+new Pure Functions article
+new Object.assign article
+new Closures article
+Add new DOM article
+a new video for data structures
+Add article about Design Pattern from Medium. 
+How to traverse DOM
+Fix semantics compiler for offstage children (#24862)
+Add animations to SliverAppBar doc (#25091)
+Fix typo in documentation (#25003)
+Add a flutter-attach entry point for fuchsia (#24878)
+Clarify dart:ui dependencies in foundation library (#24868)
+Smoke test building IPA and APK on supported platforms (#24601) 
+Remove superfluous "install" (#24836)
+Updating readme templates for newly created projects (#24725) 
+Roll engine be973ea1961..72c7a756722 (#24828) 
+Merge analaytics from docs site and flutter.io site. (#24825)
+version v0.5.0 bump
+handle scratch images (closes #76)
+Export metrics to a file (#122)
+Performance tweaks (#127)
+Refactor image preprocessing (#121)
+bump patch version in docs
+read entire json file on image parsing
+added mac download link; formatting
+formatting windows title
+archive override for windows (zip)
+Rephrase sentence to make more sense (#109)
+fix typo (#107)
+match order of display to if/else order (#105)
+make the function *call* more visible (#104) 
+Update broken link
+Fixed input-output of 4th example explanation code (#92)
+Fix Python 3 compatibility in the irrelevant code!
+Fix an error in the irrelevant code! 
+Fix incorrect output in "Mysterious key type conversion" example 
+Simplify explanation
+build fix
+Revert "bumped webpack"
+potential fix for xterm double-paste (#468)
+xterm copy-on-select (fixes #400)
+make scroll-on-input behaviour configurable (fixes #543)
+bumped webpack
+fixed settings sidebar offset (fixes #549)
+hotkey fixes
+nicer scrollbars (fixes #440)
+don't crash if no global spawn hotkey is assigned (#540)
+Create e.e
+marking fn e as #[main]
+remove new line
+change `sys.exit(0)` to `sys.exit('e')`
+Optimize Go implementation
+Add e.png
+Update e.java
+eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+update
+eeeeeeeeeeeeeeeeeeeeeeeeee parseeeeeeeeeeeeeeeeeer
+e.bmp
+icons
+Update Garmin build files and docs (#237) 
+Add max code length for JS implementation. (#242) 
+Update version for Swift (#244)
+Add go benchmarks (#240) 
+Add C/C++ library benchmark (#231)
+Add library version information for C implementation (#230)
+Add "Positioning" permission to the app (#233) 
+Fix the "you can just tell them 8FXR" example. (#232)
+Gonzus/cpp example output (#229) 
+Fix clippy warnings returning the result of a let binding from a block
+Fix clippy warnings manual implementation of an assign operation
+Fix clippy warnings unused imports
+Fix clippy unused variable: `instance`
+Fix unneeded return statement
+Fix clippy long literal lacking separators warnings
+Fix redundant_field_names
+Improved README styling
+Improved docs with installation instructions
+Updated version to 0.1.3
+fix a little typo in cn
+Use Object.values instead of _.each : 96ddb50
+Create simple debounce and throttle instead of _.
+Add yarn.lock
+Remove module unuse
+Change npm to yarn
+Add some info about this repository
+Restore `src/levels` in `Gruntfile.js`
+remove forgot in 'no more native' a9dd27c
+Avoid display 900px in small screen
+better code smell
+refactoring
+add code climate badge
+add boolean type and fix code coverege
+add oneOf
+update readme
+adding url type
+password and user thype
+README.md typo fixes [ci skip]
+adding password type
+update issue-guide.md to include new PR labels (#203)
+disable test signing while arcade is looking into issue (#220)
+Update dependency files (#211)
+disable test signing for now (#206)
+Remove SYTEM_WEB, UNUSED, SOAP_FORMATTER and commented code from Syst… 
+Suppress SecurityCritical attributes (#201) 
+Use ValueTuple instead of Tuple for internal cache
+Move ApiHelper to shared code and add tests
+Clean out Windows 9x code (#154) 
+Update dependencies from https://github.com/dotnet/arcade build 650 (#… 
